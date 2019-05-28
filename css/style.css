@@ -377,6 +377,11 @@ h3.w3l_head, h3.agileits-title, h3.agile-title, h3.agile-contact, div#wthreeskil
 .wthreeskills {
 	background-color: #eee;
 }
+.skills-break {
+	margin-left: 5px;
+	margin-right: 3px;
+	border-left: 1px solid #777;
+}
 /*-- Tabs --*/
 	.sap_tabs {
 		clear: both;
