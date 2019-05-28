@@ -784,7 +784,7 @@ li.aitsaitsresumewthreeli-1 {
 	margin-bottom: 15px;
 	border: 1px solid #000;
 	display: inline-block;
-	padding: 10px 30px;
+	padding: 10px 28px;
 }
 .work-right.work-right2 {
 	min-height: 185px;
@@ -1490,7 +1490,8 @@ textarea {
 	}
 	.work-info h5 {
 		margin-bottom: 7px;
-		padding: 9px 27px;
+		padding: 10px 20px;
+		width: 100%;
 	}
 	.work-right {
 		padding: 1em 0 0em 13px;
@@ -1733,9 +1734,11 @@ textarea {
 		padding: 0;
 	}
 	.work-info h4 {
-		padding: 10px 25px;
+		padding: 10px;
 		font-size: 14px;
-		margin-left: 90px;
+		margin-left: 0px;
+		width: 30%;
+		text-align: center;
 	}
 	.work-info p {
 		text-align: left;
@@ -1750,9 +1753,12 @@ textarea {
 	.work-info h5 {
 		position: absolute;
 		top: -51px;
-		right: 16%;
+		right: 0%;
 		font-size: 14px;
 		margin-bottom: 0;
+		padding: 9px 10px;
+		width: 60%;
+		text-align: left
 	}
 	.work-right.work-right2 {
 		height: 50px;
@@ -1760,11 +1766,14 @@ textarea {
 		text-align: left;
 	}
 	.work-info .work-right2 h4 {
-		margin-left: 235px;
+		margin-left: 0px;
+		float: right;
 	}
 	.work-info .work-left2 h5 {
 		top: -51px;
-		right: 49%;
+		right: auto;
+		left: 0;
+		padding: 10px 10px;
 	}
 	.work-left2 {
 		height: 126px;
@@ -1787,7 +1796,7 @@ textarea {
 		font-size: 0.9em;
 	}
 	h5.univ {
-		right: 13.5%;
+		right: 0%;
 	}
 	h5.sch {
 		right: 25%;
@@ -1861,12 +1870,6 @@ textarea {
 	.w3agile-servs-img .description {
 		width: 90%;
 	}
-	.work-info h4 {
-		margin-left: 35px;
-	}
-	.work-info .work-right2 h4 {
-		margin-left: 201px;
-	}
 	#loadMore {
 		width: 33%;
 	}
@@ -1939,25 +1942,14 @@ textarea {
 		right: 11% !important;
 	}
 	.work-info h5 {
-		right: 14.5%;
-	}
-	.work-info .work-right2 h4 {
-		margin-left: 186px;
-	}
-	.work-info h5 {
-		padding: 9px 23px;
+		padding: 9px 10px;
 	}
 	.banner-info-w3l h4 a {
 		width: 30%;
 	}
 	.work-info h4 {
-		padding: 10px 21px;
-	}
-	.work-info h4 {
-		margin-left: 42px;
-	}
-	.work-info h4 {
-		margin-left: 31px;
+		padding: 10px 15px;
+		text-align: left;
 	}
 	h5.sch {
 		right: 25.5%;
@@ -1994,14 +1986,8 @@ textarea {
 	.w3ls-agile-left-info h4, .social-info h4 {
 		font-size: 1.25em;
 	}
-	.work-info h5 {
-		right: 12%;
-	}
 	.work-info p {
 		line-height: 24px;
-	}
-	.work-info .work-right2 h4 {
-		margin-left: 181px;
 	}
 	h5.univ {
 		right: 8.6% !important;
@@ -2121,13 +2107,11 @@ textarea {
 	.work-info h4 {
 		padding: 9px 12px;
 		font-size: 13px;
+		text-align: left;
 	}
 	.work-info h5 {
 		padding: 8px 13px;
 		font-size: 13px;
-	}
-	.work-info .work-right2 h4 {
-		margin-left: 153px;
 	}
 	.work-info p {
 		line-height: 23px;
