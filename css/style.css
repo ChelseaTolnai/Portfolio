@@ -286,10 +286,15 @@ h3.w3l_head, h3.agileits-title, h3.agile-title, h3.agile-contact, div#wthreeskil
     letter-spacing: 2px;
     text-transform: uppercase;
 }
-.w3l-grids-about , .services-w3ls-row, .gallery_gds, .contact-agile, .wthreeskills-grids, .bar_group.group_ident-1, .tabs, .load_more.load_more{
+div#wthreeskills h3, .wthreeskills h3{
+	margin-bottom: .5em;
+}
+.w3l-grids-about , .services-w3ls-row, .gallery_gds, .contact-agile, .wthreeskills-grids, .bar_group.group_ident-1, .tabs{
     margin-top: 3em;
 }
-
+.load_more.load_more{
+    margin-top: 2em;
+}
 /*-- effect --*/
 .hovicon {
     display: inline-block;
@@ -376,6 +381,11 @@ h3.w3l_head, h3.agileits-title, h3.agile-title, h3.agile-contact, div#wthreeskil
 }
 .wthreeskills {
 	background-color: #eee;
+}
+.skills-break {
+	margin-left: 5px;
+	margin-right: 3px;
+	border-left: 1px solid #777;
 }
 /*-- Tabs --*/
 	.sap_tabs {
