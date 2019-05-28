@@ -583,10 +583,15 @@ h3.w3l_head, h3.agileits-title, h3.agile-title, h3.agile-contact, div#wthreeskil
 }
 h3.agileits-title{
 	color:#fff ;
+	text-shadow:
+	-1px -1px 0 #000,
+	1px -1px 0 #000,
+	-1px 1px 0 #000,
+	1px 1px 0 #000;
 }
 .w3agile-servs-img {
     width: 100%;
-    height: 200px;
+    height: 235px;
     margin: 0px 0;
     text-align: center;
     border: 5px solid  #07cb79;
@@ -595,14 +600,14 @@ h3.agileits-title{
 	-o-transition: all 0.3s;
 	-ms-transition: all 0.3s;
     transition: all 0.3s;
-    background: black;
+    background: rgba(0, 0, 0, 0.6);
 }
 .w3agile-servs-img:hover {
-    border-color: #6e2585;
+    border-color: #AADAFF;
 }
 .w3agile-servs-img .icon-holder {
     position: relative;
-    top: 63px;
+    top: 75px;
     display: inline-block;
     margin-bottom: 1em;
     -webkit-transition: all 0.3s;
@@ -612,7 +617,7 @@ h3.agileits-title{
     transition: all 0.3s;
     border-radius: 100%;
     color: #fff;
-    font-size: 3em;
+    font-size: 4em;
 }
 .w3agile-servs-img .mission {
     position: relative;
@@ -642,8 +647,12 @@ h3.agileits-title{
     transform: scale(0);
     color: #e4e2e2;
 }
+.w3agile-servs-img:hover {
+    background: rgba(0, 0, 0, 1);
+}
 .w3agile-servs-img:hover .icon-holder {
-    top: 30px;
+	top: 30px;
+	font-size: 3em;
 }
 .w3agile-servs-img:hover .mission {
     top: -10px;
@@ -878,6 +887,10 @@ ul.simplefilter {
     height: 300px;
 }
 /*-- contact-starts-here --*/
+.contact {
+	padding: 4em 0;
+}
+
 .contact-left-agile {
     float: left;
     width: 50%;
