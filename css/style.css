@@ -141,6 +141,36 @@ a:focus, a:hover {
 	-moz-transition: 0.5s all;
 	-ms-transition: 0.5s all;
 }
+.banner-link-wrap {
+	text-align: center;
+	width: 100%;
+	margin: 0 auto;
+	display: flex;
+	justify-content: center;
+	align-items: baseline; 
+}
+.banner-link {
+	background-color: #000;
+	margin: 0 20px;
+	padding: 5px 10px;
+    color: #fff;
+    font-size: 1em;
+    text-align: center;
+    font-weight: 400;
+    display: inherit;
+	border: 1px solid #fff;
+}
+.banner-link:hover {
+    background: #07cb79;
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-o-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-ms-transition: 0.5s all;
+}
+.banner-link i{
+	font-size: 2em;
+}
 /*-- header-nav --*/
 .nav-agile {
     background:#07cb79;
@@ -1521,6 +1551,9 @@ textarea {
 	.banner-info-w3l h3 {
 		margin: 1.2em 0;
 	}
+	.banner-link {
+		font-size: .8em;
+	}
 	h3.w3l_head, h3.agileits-title, h3.agile-title, h3.agile-contact, div#wthreeskills h3, .aitsresumewthree-tag h3, .wthreeskills h3 {
 		font-size: 2.2em;
 	}
@@ -1708,6 +1741,9 @@ textarea {
 	.banner-info-w3l h2 {
 		font-size: 1.2em;
 		letter-spacing: 2px;
+	}
+	.banner-link {
+		font-size: .6em;
 	}
 	.filtr-item {
 		width: 100% !important;
