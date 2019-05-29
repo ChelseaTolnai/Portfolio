@@ -295,6 +295,21 @@ div#wthreeskills h3, .wthreeskills h3{
 .load_more.load_more{
     margin-top: 2em;
 }
+.about-link{
+	color: #1F79C7;
+	font-size: 16px;
+}
+.about-link:hover{
+	color: #07CA79;
+}
+.about-link .fa-linkedin, .about-link .fa-github{
+	color: #1F79C7;
+	font-size: 32px;
+	padding-top: 4px;
+}
+.about-link .fa-linkedin{
+	padding-top: 8px;
+}
 /*-- effect --*/
 .hovicon {
     display: inline-block;
@@ -613,7 +628,7 @@ h3.agileits-title{
     background: rgba(0, 0, 0, 0.6);
 }
 .w3agile-servs-img:hover {
-    border-color: #AADAFF;
+    border-color: #1F79C7;
 }
 .w3agile-servs-img .icon-holder {
     position: relative;
@@ -1255,7 +1270,7 @@ textarea {
 		padding: 0.3em 0;
 	}
 	.agile-about-right-img img {
-		margin-bottom: 2em;
+		margin-bottom: 1em;
 	}
 	.wthreeskills-grid.wthreeskills-grid-1 {
 		margin-top: 4.5em;
@@ -1306,7 +1321,7 @@ textarea {
 		width: 50%;
 	}
 	.agile-about-right-img img {
-		width: 40%;
+		width: 100%;
 	}
 	.add-w3ls2 h5 {
 		font-size: 1.3em;
@@ -1652,7 +1667,7 @@ textarea {
 		font-size: 1.5em;
 	}
 	.agile-about-right-img img {
-		margin-bottom: 1em;
+		margin-bottom: .5em;
 	}
 	.add-w3ls2 {
 		width: 85%;
@@ -1681,7 +1696,7 @@ textarea {
 		min-height: 260px;
 	}
 	.agile-about-right-img img {
-		width: 60%;
+		width: 95%;
 	}
 	.banner-info-w3l h2 {
 		font-size: 1.2em;
