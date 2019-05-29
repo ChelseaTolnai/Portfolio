@@ -40,19 +40,33 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <body>
 
 	<!-- Header -->
+	<div class="logo-w3layouts">
+		<h1><a href="index.html">Web Developer</a></h1>
+	</div>	
 	<div class="banner-agile">
-		<div class="logo-w3layouts">
-			<h1><a href="index.html">Chelsea Tolnai</a></h1>
-		</div>	
 		<div class="container">
 			<div class="banner-info-w3l">
 				<h2>Hi, I am Chelsea Tolnai</h2>
 				<h3>Full Stack Web Developer</h3>
-				<h4><a class="scroll" href="#about">About Me</a></h4>
+				<div class=banner-link-wrap>
+					<a href="https://www.linkedin.com/in/ChelseaTolnai/" target="#blank">
+						<span class="banner-link">
+							<i class="fa fa-linkedin"></i>
+							<!-- <span class="banner-link-text"> /ChelseaTolnai</span> -->
+						</span>
+					</a>
+					<a href="https://github.com/ChelseaTolnai" target="#blank">
+						<span class="banner-link">
+							<i class="fa fa-github"></i>
+							<!-- <span class="banner-link-text"> /ChelseaTolnai</span> -->
+						</span>
+					</a>
+				</div>
+				<!-- <h4><a class="scroll" href="#about">About Me</a></h4> -->
 			</div>
 		</div>
 	</div>
-	<div class="nav-agile">
+	<div class="nav-agile" id="mainnav">
 		<div class="container">
 			<!-- Navigation -->
 			<nav class="navbar navbar-default">
@@ -528,6 +542,21 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<script type="text/javascript" src="js/jquery-2.1.4.min.js"></script> <!-- Default-JavaScript-File -->
 		<script type="text/javascript" src="js/bootstrap.js"></script> <!-- Necessary-JavaScript-File-For-Bootstrap --> 
 	
+		<!-- for-nav -->
+		<!-- <script type="text/javascript">
+			jQuery(document).ready(function($) {
+				var navpos = $('#mainnav').offset();
+				$(window).bind('scroll', function () {
+					if ($(window).scrollTop() > navpos.top) {
+						$('#mainnav').addClass('navbar-fixed-top');
+					} else {
+						$('#mainnav').removeClass('navbar-fixed-top');
+					}
+				});
+			});
+		</script> -->
+		<!-- //for-nav -->
+
 		<!-- for-projects -->
 			<!-- swipe box js -->
 			<script src="js/jquery.swipebox.min.js"></script> 
