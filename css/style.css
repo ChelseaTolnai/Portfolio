@@ -86,7 +86,7 @@ a:focus, a:hover {
 .banner-agile .container {
 	width: 100%;
 	position: absolute;
-	bottom: 20%;
+	bottom: 25%;
 }
 .banner-info-w3l  {
 	padding:13em 0 0;
@@ -101,17 +101,21 @@ a:focus, a:hover {
     font-size: 2.5em;
     text-align: center;
     margin: 0;
-    font-weight: 700;
+    font-weight: 800;
     letter-spacing: 3px;
-    text-transform: uppercase;
+	text-transform: uppercase;
+	text-shadow:
+	3px 3px 3px #333;
 }
 .banner-info-w3l h3 {
     color: #fff;
     font-size: 1em;
     text-align: center;
-    font-weight: 100;
+    font-weight: 600;
 	letter-spacing: 5px;
-    margin: 2em 0;
+	margin: 2em 0;
+	text-shadow:
+	1px 1px 0 #333;
 }
 .banner-info-w3l h4 a {
     color: #fff;
