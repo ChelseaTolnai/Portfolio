@@ -81,6 +81,12 @@ a:focus, a:hover {
 	-o-background-size: cover;
 	-ms-background-size: cover;
 	min-height: 650px;
+	position: relative;
+}
+.banner-agile .container {
+	width: 100%;
+	position: absolute;
+	bottom: 20%;
 }
 .banner-info-w3l  {
 	padding:13em 0 0;
