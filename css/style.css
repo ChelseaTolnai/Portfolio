@@ -954,7 +954,7 @@ ul.simplefilter {
 }
 /*-- contact-starts-here --*/
 .contact {
-	padding: 4em 0;
+	padding: 4em 0 0;
 }
 
 .contact-left-agile {
@@ -1015,13 +1015,8 @@ input[type="submit"]:hover {
 }
 .contact-left-agile {
 	min-height: 479px;
-	/* background: url(../images/contact3.jpg) no-repeat 0px 0px;
-	background-size: cover;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	-ms-background-size: cover; */
 	position: relative;
+	z-index: 0;
 }
 .contact-img {
 	background: url(../images/contact3.jpg) no-repeat 0px 0px;
@@ -1045,6 +1040,10 @@ input[type="submit"]:hover {
 	width: 100%;
 	height: 100%;
 	z-index: -1;
+}
+.contact-clearfix {
+	background: #000;
+	z-index: -10;
 }
 .contact-right-w3l, .contact-right-w3l iframe {
 	min-height: 479px;
@@ -1109,16 +1108,14 @@ textarea {
 
 /*-- copyright-starts-here --*/
 .copy-section {
-    padding: 2em 0;
+    padding: 3em 0 1em;
     background: #000;
     text-align: center;
-    border-bottom: 1px dashed #fff;
-    border-top: 1px dashed #fff;
 }
 .copy-section p {
-    font-size: 1em;
+    font-size: .8em;
     color: #fff;
-    letter-spacing: 2px;
+    /* letter-spacing: 2px; */
 }
 .copy-section a {
     font-size: 1em;
@@ -1680,9 +1677,9 @@ textarea {
 		width: 27%;
 		font-size: 1em;
 	}
-	.copy-section p {
+	/* .copy-section p {
 		letter-spacing: 1px;
-	}
+	} */
 	.hovicon {
 		font-size: 1.9em;
 		line-height: 61px;
@@ -1955,13 +1952,13 @@ textarea {
 	input[type="submit"] {
 		font-size: 0.9em;
 	}
-	.copy-section p {
+	/* .copy-section p {
 		font-size: 0.9em;
 		line-height: 1.9em;
 	}
 	.copy-section {
 		padding: 1.7em 0;
-	}
+	} */
 	/* .map iframe {
 		height: 211px;
 	} */
@@ -2134,9 +2131,9 @@ textarea {
 	input[type="text"], input[type="email"], .contact-right-w3l textarea {
 		font-size: 13px;
 	}
-	.copy-section {
+	/* .copy-section {
 		padding: 1.5em 0;
-	}
+	} */
 }
 @media(max-width: 320px){
 	.logo-w3layouts h1 a {
@@ -2289,12 +2286,12 @@ textarea {
 		padding: 9px 0px;
 		width: 34%;
 	}
-	.copy-section p {
+	/* .copy-section p {
 		letter-spacing: 0px;
 	}
 	.copy-section {
 		padding: 1.2em 0;
-	}
+	} */
 }
 
 /*-- //responsive-ends-here --*/
