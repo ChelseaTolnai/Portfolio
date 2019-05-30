@@ -960,7 +960,8 @@ ul.simplefilter {
 .contact-left-agile {
     float: left;
     width: 50%;
-	padding-left: 14em;
+	padding-left: 15%;
+	padding-right: 5%;
 }
 .contact-right-w3l {
     float: right;
@@ -1149,6 +1150,10 @@ textarea {
 	.banner-info-w3l  {
 		padding:13em 0 0;
 	}
+	.contact-left-agile {
+		padding-left: 10%;
+		padding-bottom: 2%;
+	}
 }
 @media(max-width: 1440px){
 	.banner-agile {
@@ -1213,6 +1218,9 @@ textarea {
 		font-size: 2.7em;
 		letter-spacing: 1px;
 	}
+	.contact-left-agile {
+		padding-left: 5%;
+	}
 }
 @media(max-width: 1080px){
 	.banner-agile {
@@ -1236,9 +1244,6 @@ textarea {
 	}
 	.w3lsstatsaitsstats {
 		font-size: 30px;
-	}
-	.contact-left-agile {
-		padding-left: 3em;
 	}
 }
 @media(max-width: 1050px){
@@ -1373,9 +1378,17 @@ textarea {
 		padding: 11px 0px;
 		width: 28%;
 	}
+	.contact-left-agile {
+		padding-right: 2%;
+	}
 }
 @media(max-width: 900px){
-	
+	.contact-left-agile, .add-w3ls2 {
+		padding-left: 3%;
+	}
+	.contact-left-agile p{
+		margin: 1em 0em 0em;
+	}
 }
 @media(max-width: 800px){
 	.logo-w3layouts h1 a {
@@ -1425,13 +1438,15 @@ textarea {
 	.contact-left-agile {
 		float: left;
 		width: 100%;
+		padding-left: 10%;
+		padding-right: 8%;
+	}
+	.contact-left-agile p {
+		margin: 1em 0em 1em;
 	}
 	.contact-right-w3l {
 		float: right;
 		width: 100%;
-	}
-	.contact-left-agile {
-		padding-left: 6em;
 	}
 	.add-w3ls2 {
 		width: 87%;
@@ -1593,6 +1608,10 @@ textarea {
 	textarea {
 		min-height: 128px;
 	}
+	.contact-left-agile {
+		padding-left: 8%;
+		padding-right: 5%;
+	}
 }
 @media(max-width: 640px){
 	.banner-agile {
@@ -1622,9 +1641,6 @@ textarea {
 	.contact-left-agile h4 {
 		font-size: 1.4em;
 		margin-top: 1.2em;
-	}
-	.contact-left-agile {
-		padding-left: 5em;
 	}
 	.contact-left-agile, .contact-right-w3l, .contact-right-w3l iframe {
 		min-height: 382px;
@@ -1892,9 +1908,6 @@ textarea {
 		width: 31%;
 		margin-bottom: 1em;
 	}
-	.contact-left-agile {
-		padding-left: 4em;
-	}
 	.add-w3ls-main span {
 		margin: 5px 0px;
 		font-size: 1.2em;
@@ -1968,9 +1981,6 @@ textarea {
 	}
 	h5.sch {
 		right: 26.5%;
-	}
-	.contact-left-agile {
-		padding-left: 3em;
 	}
 	.contact-left-agile h4 {
 		font-size: 1.35em;
@@ -2234,9 +2244,6 @@ textarea {
 	.add-w3ls2 h5 {
 		margin: 0.5em 0em 0em;
 		font-size: 1.15em;
-	}
-	.contact-left-agile {
-		padding-left: 2.5em;
 	}
 	.add-w3ls2 {
 		width: 79%;
