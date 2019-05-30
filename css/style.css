@@ -947,10 +947,10 @@ ul.simplefilter {
 }
 /*-- //img-hover-effect --*/  
 /*-- Portfolio-ends-here --*/
-.map iframe {
+.contact-right-w3l iframe {
     width: 100%;
-    border: none;
-    height: 300px;
+	border: none;
+    /* height: 300px; */
 }
 /*-- contact-starts-here --*/
 .contact {
@@ -960,15 +960,15 @@ ul.simplefilter {
 .contact-left-agile {
     float: left;
     width: 50%;
-	padding-left: 14em;
+	padding-left: 15%;
+	padding-right: 5%;
 }
 .contact-right-w3l {
     float: right;
     width: 50%;
-	background: #eee;
 }
 input[type="text"], input[type="email"], .contact-right-w3l textarea{
-    width: 80%;
+	width: 80%;
     padding: 10px;
     outline: none;
     font-size: 14px;
@@ -1013,14 +1013,41 @@ input[type="submit"]:hover {
     float: right;
     width: 50%;
 }
-.contact-left-agile{
-  background: url(../images/contact2.jpg) no-repeat 0px 0px;
-  background-size: cover;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  -ms-background-size: cover;
-  min-height: 479px;
+.contact-left-agile {
+	min-height: 479px;
+	/* background: url(../images/contact3.jpg) no-repeat 0px 0px;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	-ms-background-size: cover; */
+	position: relative;
+}
+.contact-img {
+	background: url(../images/contact3.jpg) no-repeat 0px 0px;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	-ms-background-size: cover;	
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: -2;
+}
+.contact-tint {
+	background: rgba(0, 0, 0, 0.7);
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: -1;
+}
+.contact-right-w3l, .contact-right-w3l iframe {
+	min-height: 479px;
 }
 .contact-form {
     padding: 1em 0em;
@@ -1147,6 +1174,10 @@ textarea {
 	.banner-info-w3l  {
 		padding:13em 0 0;
 	}
+	.contact-left-agile {
+		padding-left: 10%;
+		padding-bottom: 2%;
+	}
 }
 @media(max-width: 1440px){
 	.banner-agile {
@@ -1211,6 +1242,9 @@ textarea {
 		font-size: 2.7em;
 		letter-spacing: 1px;
 	}
+	.contact-left-agile {
+		padding-left: 5%;
+	}
 }
 @media(max-width: 1080px){
 	.banner-agile {
@@ -1235,9 +1269,6 @@ textarea {
 	.w3lsstatsaitsstats {
 		font-size: 30px;
 	}
-	.contact-left-agile {
-		padding-left: 3em;
-	}
 }
 @media(max-width: 1050px){
 
@@ -1261,7 +1292,7 @@ textarea {
 	.contact-left-agile p {
 		margin: 1em 0em 1em;
 	}
-	.contact-left-agile {
+	.contact-left-agile, .contact-right-w3l, .contact-right-w3l iframe {
 		min-height: 450px;
 	}
 	textarea {
@@ -1273,9 +1304,9 @@ textarea {
 		width: 60px;
 		height: 60px;
 	}
-	.map iframe {
+	/* .map iframe {
 		height: 270px;
-	}
+	} */
 	.add-w3ls2 {
 		margin: 2px 0px;
 	}
@@ -1371,9 +1402,17 @@ textarea {
 		padding: 11px 0px;
 		width: 28%;
 	}
+	.contact-left-agile {
+		padding-right: 2%;
+	}
 }
 @media(max-width: 900px){
-	
+	.contact-left-agile, .add-w3ls2 {
+		padding-left: 3%;
+	}
+	.contact-left-agile p{
+		margin: 1em 0em 0em;
+	}
 }
 @media(max-width: 800px){
 	.logo-w3layouts h1 a {
@@ -1423,18 +1462,20 @@ textarea {
 	.contact-left-agile {
 		float: left;
 		width: 100%;
+		padding-left: 10%;
+		padding-right: 8%;
+	}
+	.contact-left-agile p {
+		margin: 1em 0em 1em;
 	}
 	.contact-right-w3l {
 		float: right;
 		width: 100%;
 	}
-	.contact-left-agile {
-		padding-left: 6em;
-	}
 	.add-w3ls2 {
 		width: 87%;
 	}
-	.contact-left-agile {
+	.contact-left-agile, .contact-right-w3l, .contact-right-w3l iframe {
 		min-height: 426px;
 	}
 	textarea {
@@ -1521,15 +1562,15 @@ textarea {
 	.work-right {
 		padding: 1em 0 1em 13px;
 	}
-	.map iframe {
+	/* .map iframe {
 		height: 247px;
-	}
+	} */
 	.contact-left-agile h4 {
 		font-size: 1.6em;
 		letter-spacing: 0px;
 		margin-top: 1.4em;
 	}
-	.contact-left-agile {
+	.contact-left-agile, .contact-right-w3l, .contact-right-w3l iframe {
 		min-height: 400px;
 	}
 	input[type="text"], input[type="email"], .contact-right-w3l textarea {
@@ -1591,6 +1632,10 @@ textarea {
 	textarea {
 		min-height: 128px;
 	}
+	.contact-left-agile {
+		padding-left: 8%;
+		padding-right: 5%;
+	}
 }
 @media(max-width: 640px){
 	.banner-agile {
@@ -1614,17 +1659,14 @@ textarea {
 	.w3lsstatsaitsstats {
 		font-size: 24px;
 	}
-	.map iframe {
+	/* .map iframe {
 		height: 232px;
-	}
+	} */
 	.contact-left-agile h4 {
 		font-size: 1.4em;
 		margin-top: 1.2em;
 	}
-	.contact-left-agile {
-		padding-left: 5em;
-	}
-	.contact-left-agile {
+	.contact-left-agile, .contact-right-w3l, .contact-right-w3l iframe {
 		min-height: 382px;
 	}
 	textarea {
@@ -1681,7 +1723,7 @@ textarea {
 		margin: 0.8em 0em 1em;
 		font-size: 0.9em;
 	}
-	.contact-left-agile {
+	.contact-left-agile, .contact-right-w3l, .contact-right-w3l iframe {
 		min-height: 360px;
 	}
 	.work-right.work-right2 {
@@ -1890,9 +1932,6 @@ textarea {
 		width: 31%;
 		margin-bottom: 1em;
 	}
-	.contact-left-agile {
-		padding-left: 4em;
-	}
 	.add-w3ls-main span {
 		margin: 5px 0px;
 		font-size: 1.2em;
@@ -1923,9 +1962,9 @@ textarea {
 	.copy-section {
 		padding: 1.7em 0;
 	}
-	.map iframe {
+	/* .map iframe {
 		height: 211px;
-	}
+	} */
 }
 @media(max-width: 414px){
 	.logo-w3layouts h1 a {
@@ -1966,9 +2005,6 @@ textarea {
 	}
 	h5.sch {
 		right: 26.5%;
-	}
-	.contact-left-agile {
-		padding-left: 3em;
 	}
 	.contact-left-agile h4 {
 		font-size: 1.35em;
@@ -2045,7 +2081,7 @@ textarea {
 	.add-w3ls2 {
 		width: 81%;
 	}
-	.contact-left-agile {
+	.contact-left-agile, .contact-right-w3l, .contact-right-w3l iframe {
 		min-height: 350px;
 	}
 	input[type="submit"] {
@@ -2092,7 +2128,7 @@ textarea {
 		letter-spacing: 0px;
 		line-height: 1.8em;
 	}
-	.contact-left-agile {
+	.contact-left-agile, .contact-right-w3l, .contact-right-w3l iframe {
 		min-height: 345px;
 	}
 	input[type="text"], input[type="email"], .contact-right-w3l textarea {
@@ -2216,9 +2252,9 @@ textarea {
 	h5.sch {
 		right: 25.5%;
 	}
-	.map iframe {
+	/* .map iframe {
 		height: 168px;
-	}
+	} */
 	.contact-left-agile h4 {
 		font-size: 1.3em;
 	}
@@ -2233,16 +2269,13 @@ textarea {
 		margin: 0.5em 0em 0em;
 		font-size: 1.15em;
 	}
-	.contact-left-agile {
-		padding-left: 2.5em;
-	}
 	.add-w3ls2 {
 		width: 79%;
 	}
 	.navbar-toggle {
 		padding: 7px 7px;
 	}
-	.contact-left-agile {
+	.contact-left-agile, .contact-right-w3l, .contact-right-w3l iframe {
 		min-height: 328px;
 	}
 	input[type="text"], input[type="email"], .contact-right-w3l textarea {
