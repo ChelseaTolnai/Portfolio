@@ -1789,7 +1789,8 @@ textarea {
 		font-size: .6em;
 	}
 	.filtr-item {
-		width: 100% !important;
+		width: 50% !important;
+		margin-left: 0 !important;
 	}
 	.agileits-img img{
 		width: 100% !important;
@@ -2182,6 +2183,9 @@ textarea {
 	}
 	.b_label {
 		font-size: 0.95em;
+	}
+	.filtr-item {
+		width: 100% !important;
 	}
 	.agile-about-right-img img {
 		margin-bottom: 0.8em;
