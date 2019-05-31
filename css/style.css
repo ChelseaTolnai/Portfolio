@@ -890,6 +890,12 @@ li.aitsaitsresumewthreeli-1 {
 .col-md-6.agileits-img.g4 {
     padding: 0 0px 0px 3px !important;
 }
+.agileits-img-sm {
+	display: none;
+}
+.agileits-img-lg {
+	display: inline-block;
+}
 .item-desc {
     background-color: rgba(0,0,0,0.5);
     color: white;
@@ -1377,6 +1383,9 @@ textarea {
 		float: left;
 		width: 25%;
 	}
+	.col-md-offset-1-half {
+		margin-left: 12.5%;
+	}
 	.col-md-6.filtr-item {
 		float: left;
 		width: 50%;
@@ -1789,10 +1798,18 @@ textarea {
 		font-size: .6em;
 	}
 	.filtr-item {
-		width: 100% !important;
+		width: 50% !important;
+		float: left;
+		margin-left: 0;
 	}
 	.agileits-img img{
 		width: 100% !important;
+	}
+	.agileits-img-sm {
+		display: inline-block;
+	}
+	.agileits-img-lg {
+		display: none;
 	}
 	.banner-info-w3l h3 {
 		margin: 1.1em 0;

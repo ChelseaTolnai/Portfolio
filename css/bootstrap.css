@@ -2078,6 +2078,9 @@ pre code {
   .col-md-offset-2 {
     margin-left: 16.66666667%;
   }
+  .col-md-offset-1-half {
+    margin-left: 12.5%;
+  }
   .col-md-offset-1 {
     margin-left: 8.33333333%;
   }
