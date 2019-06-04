@@ -55,8 +55,8 @@ html.swipebox-html.swipebox-touch {
 }
 #swipebox-slider .slide img, #swipebox-slider .slide .swipebox-video-container {
   display: inline-block;
-  max-height: 100%;
-  max-width: 100%;
+  max-height: 50%;
+  max-width: 50%;
   margin: 0;
   padding: 0;
   width: auto;
@@ -126,7 +126,47 @@ html.swipebox-html.swipebox-touch {
     FONT-SIZE: 1.5EM;
     TEXT-TRANSFORM: UPPERCASE;
 }
+#swipebox-github:before {
+  content: '\f09b';
+  font-family: FontAwesome;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1.2em;
+  color: white;
+  margin:0px 10px 0px 0px;
+  text-decoration:none;
+  position: relative;
+  display: inline-block;
+  line-height: 1;
 
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+@font-face {
+  font-family: 'Glyphicons Halflings';
+
+  src: url('../fonts/glyphicons-halflings-regular.eot');
+  src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+}
+#swipebox-site:after {
+  content: "\e161";
+  font-family: 'Glyphicons Halflings';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1.0em;
+  color: white;
+  margin:0px 0px 0px 10px;
+  text-decoration:none;
+  position: relative;
+  display: inline-block;
+  line-height: 1;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+#swipebox-title:hover:before, #swipebox-title:hover:after{
+  cursor: pointer;;
+}
 #swipebox-prev,
 #swipebox-next,
 #swipebox-close {
@@ -356,4 +396,5 @@ html.swipebox-html.swipebox-touch {
 #swipebox-title {
     width: 90%; 
     margin: 0 auto !important;
+}
 }
