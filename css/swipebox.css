@@ -164,8 +164,9 @@ html.swipebox-html.swipebox-touch {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-#swipebox-title:hover:before, #swipebox-title:hover:after{
-  cursor: pointer;;
+#swipebox-github:hover::before, #swipebox-site:hover::after{
+  cursor: pointer;
+  color: #07cb79;
 }
 #swipebox-prev,
 #swipebox-next,
