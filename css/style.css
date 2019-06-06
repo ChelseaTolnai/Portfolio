@@ -53,6 +53,10 @@ a:focus, a:hover {
 	outline: none
 }
 /*-- //Reset Code --*/
+/* Display None Image */
+.img-display-none {
+	display: none;
+}
 
 /*-- header-starts-here --*/
 .logo-w3layouts {
