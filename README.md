@@ -16,7 +16,7 @@ You can view my portfolio at [www.ChelseaTolnai.com](https://www.ChelseaTolnai.c
 
 ### Computer Science
 
-`Python` `C`
+`Python` `C` `Algorithms` `Data Structures` `Graphs` `Computer Architecture`
 
 ### Tools & Deployment
 
