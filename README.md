@@ -37,6 +37,7 @@ You can view my portfolio at [www.ChelseaTolnai.com](https://www.ChelseaTolnai.c
 Front-End and Back-End web application dashboard allows users to create, join, and manage voice chatroom groups to make real-time voice chats with family and friends through IOS application.
 
 [View Website](https://intercom.netlify.com)
+
 [View Github](https://github.com/intercom-app)
 
 ### Sorting Hat
@@ -44,6 +45,7 @@ Front-End and Back-End web application dashboard allows users to create, join, a
 Web quiz allows users to answer questions to discover the Hogwarts House they are destined for.
 
 [View Website](https://catolnai-sorting-hat.netlify.com)
+
 [View Github](https://github.com/ChelseaTolnai/Sorting-Hat-Quiz)
 
 ### Todo App
@@ -51,6 +53,7 @@ Web quiz allows users to answer questions to discover the Hogwarts House they ar
 Web application mimics a virtual notebook to log, search, and complete your daily to-do list.
 
 [View Website](https://catolnai-todo-app.netlify.com/)
+
 [View Github](https://github.com/ChelseaTolnai/React-Todo-App)
 
 ### Smith & Jones Architects
@@ -58,6 +61,7 @@ Web application mimics a virtual notebook to log, search, and complete your dail
 User Interface multi-page website for fictional architectural firm.
 
 [View Website](https://catolnai-ui-architects.netlify.com/)
+
 [View Github](https://github.com/ChelseaTolnai/Architecture-Marketing-Site)
 
 ## Portfolio Template
