@@ -32,7 +32,7 @@ You can view my portfolio at [www.ChelseaTolnai.com](https://www.ChelseaTolnai.c
 
 ## Recent Projects
 
-### Voice Chatroom
+### Voice Chatroom -- *Selected to present at Lambda Showcase*
 
 Front-End and Back-End web application dashboard allows users to create, join, and manage voice chatroom groups to make real-time voice chats with family and friends through IOS application.
 
