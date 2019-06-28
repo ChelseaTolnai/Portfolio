@@ -30,7 +30,7 @@ You can view my portfolio at [www.ChelseaTolnai.com](https://www.ChelseaTolnai.c
 
 `Microsoft Office` `Word` `Excel` `PowerPoint` `Adobe`
 
-## Recent Projects
+## Recent Projects & Achievements
 
 ### Voice Chatroom -- *Selected to present at Lambda Showcase*
 
