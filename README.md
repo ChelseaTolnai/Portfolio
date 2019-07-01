@@ -40,6 +40,8 @@ Front-End and Back-End web application dashboard allows users to create, join, a
 
 [View Github](https://github.com/intercom-app)
 
+[View Showcase Presentation](https://lambdaschool.com/lab-demos/voice-chatroom)
+
 ### Sorting Hat
 
 Web quiz allows users to answer questions to discover the Hogwarts House they are destined for.
