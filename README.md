@@ -74,6 +74,19 @@ While in the legal industry I found myself enjoying the technical and computer d
 
 My legal and management positions bring a fresh prospective to techincal and leaderships roles as it showcases my detailed oriented and organizational skills in any job I perform.
 
+## Education
+
+### Lambda School
+
+In-depth and immersive web development, software engineer and computer science program. Experience in real-world proof of concept applications and project Team Leaderships roles.
+
+[View Verified Achievement](https://www.youracclaim.com/badges/be49f5f2-5803-462c-97a4-799bae02c1b9/linked_in)
+
+[View School - LambdaSchool.com](https://lambdaschool.com/)
+
+[View Curriculum - Full Stack Web Development](https://learn.lambdaschool.com/course/cs-fsw)
+
+
 ## Portfolio Template
 
 My portfolio was built using a W3Layouts template. 
