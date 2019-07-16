@@ -46,25 +46,19 @@ Front-End and Back-End web application dashboard allows users to create, join, a
 
 Web quiz allows users to answer questions to discover the Hogwarts House they are destined for.
 
-[View Website](https://catolnai-sorting-hat.netlify.com)
-
-[View Github](https://github.com/ChelseaTolnai/Sorting-Hat-Quiz)
+  [View Website](https://catolnai-sorting-hat.netlify.com) / [View Github](https://github.com/ChelseaTolnai/Sorting-Hat-Quiz)
 
 ### Todo App
 
 Web application mimics a virtual notebook to log, search, and complete your daily to-do list.
 
-[View Website](https://catolnai-todo-app.netlify.com/)
-
-[View Github](https://github.com/ChelseaTolnai/React-Todo-App)
+[View Website](https://catolnai-todo-app.netlify.com/) / [View Github](https://github.com/ChelseaTolnai/React-Todo-App)
 
 ### Smith & Jones Architects
 
 User Interface multi-page website for fictional architectural firm.
 
-[View Website](https://catolnai-ui-architects.netlify.com/)
-
-[View Github](https://github.com/ChelseaTolnai/Architecture-Marketing-Site)
+[View Website](https://catolnai-ui-architects.netlify.com/) / [View Github](https://github.com/ChelseaTolnai/Architecture-Marketing-Site)
 
 ## About Me
 
