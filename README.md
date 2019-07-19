@@ -80,6 +80,19 @@ In-depth and immersive web development, software engineer and computer science p
 
 [View Curriculum - Full Stack Web Development](https://learn.lambdaschool.com/course/cs-fsw)
 
+## Experience
+
+### Lambda School - Team Lead
+
+Lead and assist two agile teams of several web and app developers to create real-world prototype applications throughout an eight week continued educational program.
+
+### Brock & Scott, PLLC - Supervising Paralegal
+
+Manage and assist through legal firm acquisition while maintaining supervising paralegal role. Quickly learned new techical programs and softwares to assist team members through transition.
+
+### Shechtman Halperin Savage, LLP - Supervising Paralegal
+
+New England Supervising Paralegal in Eviction & Special Assets Deptartment. Lead a team of several paraprofessionals under the supervision of the lead attorney.
 
 ## Portfolio Template
 
