@@ -82,6 +82,10 @@ In-depth and immersive web development, software engineer and computer science p
 
 ## Experience
 
+### CBTS - Software Engineer
+
+Contracted Software Engineer working on-site at CVS Health.
+
 ### Lambda School - Team Lead
 
 Lead and assist two agile teams of several web and app developers to create real-world prototype applications throughout an eight week continued educational program.
