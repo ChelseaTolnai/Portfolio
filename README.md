@@ -4,31 +4,35 @@ I am a Full Stack Web Developer located in Rhode Island. This is my personal por
 
 You can view my portfolio at [www.ChelseaTolnai.com](https://www.ChelseaTolnai.com).
 
-## Techinical Skill Stack
+## About Me
 
-### Front End
+Before transitioning into web and software development, I diligently worked as a paralegal in the New England and Tri-State areas.
 
-`HTML` `CSS` `LESS` `JavaScript` `React` `Redux` `Axios` `JQuery` `Bootstrap` `Styled Components`
+While in the legal industry I found myself enjoying the technical and computer driven aspects of the office which lead me to follow my true passion for front-end and back-end development.
 
-### Back End
+My legal and management positions bring a fresh prospective to techincal and leaderships roles as it showcases my detailed oriented and organizational skills in any job I perform.
 
-`Node.js` `Nodemon` `Express` `Knex` `SQLite` `PostgreSQL` `JSON Web Tokens` `Sessions & Cookies`
+## Experience
 
-### Computer Science
+### CBTS - Software Engineer
 
-`Python` `C` `Algorithms` `Data Structures` `Graphs` `Computer Architecture`
+Contracted Software Engineer working on-site at CVS Health.
 
-### Tools & Deployment
+### Lambda School - Team Lead
 
-`CLI` `Git` `Github` `NPM` `Yarn` `Netlify` `Heroku`
+Lead and assist two agile teams of several web and app developers to create real-world prototype applications throughout an eight week continued educational program.
 
-### Testing
+## Education
 
-`Jest` `Supertest` `Snapshot Testing`
+### Lambda School
 
-### Office
+In-depth and immersive web development, software engineer and computer science program. Experience in real-world proof of concept applications and project Team Leaderships roles.
 
-`Microsoft Office` `Word` `Excel` `PowerPoint` `Adobe`
+[View Verified Achievement](https://www.youracclaim.com/badges/be49f5f2-5803-462c-97a4-799bae02c1b9/linked_in)
+
+[View School - LambdaSchool.com](https://lambdaschool.com/)
+
+[View Curriculum - Full Stack Web Development](https://learn.lambdaschool.com/course/cs-fsw)
 
 ## Recent Projects & Achievements
 
@@ -60,43 +64,31 @@ User Interface multi-page website for fictional architectural firm.
 
 [View Website](https://catolnai-ui-architects.netlify.com/) / [View Github](https://github.com/ChelseaTolnai/Architecture-Marketing-Site)
 
-## About Me
+## Techinical Skill Stack
 
-Before transitioning into web and software development, I diligently worked as a paralegal in the New England and Tri-State areas.
+### Front End
 
-While in the legal industry I found myself enjoying the technical and computer driven aspects of the office which lead me to follow my true passion for front-end and back-end development.
+`HTML` `CSS` `LESS` `JavaScript` `React` `Redux` `Axios` `JQuery` `Bootstrap` `Styled Components`
 
-My legal and management positions bring a fresh prospective to techincal and leaderships roles as it showcases my detailed oriented and organizational skills in any job I perform.
+### Back End
 
-## Education
+`Node.js` `Nodemon` `Express` `Knex` `SQLite` `PostgreSQL` `JSON Web Tokens` `Sessions & Cookies`
 
-### Lambda School
+### Computer Science
 
-In-depth and immersive web development, software engineer and computer science program. Experience in real-world proof of concept applications and project Team Leaderships roles.
+`Python` `C` `Algorithms` `Data Structures` `Graphs` `Computer Architecture`
 
-[View Verified Achievement](https://www.youracclaim.com/badges/be49f5f2-5803-462c-97a4-799bae02c1b9/linked_in)
+### Tools & Deployment
 
-[View School - LambdaSchool.com](https://lambdaschool.com/)
+`CLI` `Git` `Github` `NPM` `Yarn` `Netlify` `Heroku`
 
-[View Curriculum - Full Stack Web Development](https://learn.lambdaschool.com/course/cs-fsw)
+### Testing
 
-## Experience
+`Jest` `Supertest` `Snapshot Testing`
 
-### CBTS - Software Engineer
+### Office
 
-Contracted Software Engineer working on-site at CVS Health.
-
-### Lambda School - Team Lead
-
-Lead and assist two agile teams of several web and app developers to create real-world prototype applications throughout an eight week continued educational program.
-
-### Brock & Scott, PLLC - Supervising Paralegal
-
-Manage and assist through legal firm acquisition while maintaining supervising paralegal role. Quickly learned new techical programs and softwares to assist team members through transition.
-
-### Shechtman Halperin Savage, LLP - Supervising Paralegal
-
-New England Supervising Paralegal in Eviction & Special Assets Deptartment. Lead a team of several paraprofessionals under the supervision of the lead attorney.
+`Microsoft Office` `Word` `Excel` `PowerPoint` `Adobe`
 
 ## Portfolio Template
 
