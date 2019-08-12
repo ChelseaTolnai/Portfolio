@@ -1,6 +1,6 @@
 # Chelsea Tolnai - Portfolio
 
-I am a Full Stack Web Developer located in Rhode Island. This is my personal portfolio website that showcases my technical skill stack, recent projects, experience and education, contact information, and a little bit more about me. 
+I am a Full Stack Web Developer located in Rhode Island. This is my personal portfolio website that showcases my experience, education, recent projects, technical skill stack, contact information, and a little bit more about me. 
 
 You can view my portfolio at [www.ChelseaTolnai.com](https://www.ChelseaTolnai.com).
 
