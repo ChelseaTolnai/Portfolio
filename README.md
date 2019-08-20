@@ -68,7 +68,7 @@ User Interface multi-page website for fictional architectural firm.
 
 ### Front End
 
-`HTML` `CSS` `LESS` `JavaScript` `React` `Redux` `Axios` `JQuery` `Bootstrap` `Styled Components`
+`HTML` `CSS` `LESS` `JavaScript` `Typescript` `React` `React Native` `Redux` `Axios` `JQuery` `Bootstrap` `Styled Components`
 
 ### Back End
 
