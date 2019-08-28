@@ -92,6 +92,4 @@ User Interface multi-page website for fictional architectural firm.
 
 ## Portfolio Template
 
-My portfolio was built using a W3Layouts template. 
-
-More information as to W3Layouts can be viewed in the [w3layouts-License.txt](w3layouts-License.txt) file or at [http://w3layouts.com](http://w3layouts.com).
+My portfolio was built using a W3Layouts template. More information as to W3Layouts can be viewed in the [w3layouts-License.txt](w3layouts-License.txt) file or at [http://w3layouts.com](http://w3layouts.com).
