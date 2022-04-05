@@ -6,13 +6,17 @@ You can view my portfolio at [www.ChelseaTolnai.com](https://www.ChelseaTolnai.c
 
 ## About Me
 
-Before transitioning into web and software development, I diligently worked as a paralegal in the New England and Tri-State areas.
+I am a Full Stack Web Developer with a passion for learning new languages and problem solving techniques. At my current position as a Senior Development Engineer at CVS Health I lead a team of front end engineers working on the e-commerce site of healthcare's largest retailer.</p>
 
-While in the legal industry I found myself enjoying the technical and computer driven aspects of the office which lead me to follow my true passion for front-end and back-end development.
+Before transitioning into web and software development, I diligently worked as a paralegal in the New England and Tri-State areas. While in the legal industry I found myself enjoying the technical and computer driven aspects of the office which lead me to follow my true passion for front-end and back-end development.</p>
 
-My legal and management positions bring a fresh prospective to techincal and leaderships roles as it showcases my detailed oriented and organizational skills in any job I perform.
+My legal and management positions bring a fresh prospective to techincal and leaderships roles as it showcases my detailed oriented and organizational skills in any job I perform.</p>
 
 ## Experience
+
+### CVS Health - Senior Development Engineer
+
+Senior Development Engineer developing, designing and deploying e-commerce site, [CVS.com/shop](https://www.cvs.com/shop). Manage team of front end engineers through project lifecycle. Closely collaborate with engineering and product management, architects, stakeholders and design teams.
 
 ### CBTS - Software Engineer
 

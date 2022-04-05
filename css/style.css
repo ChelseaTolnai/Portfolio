@@ -764,6 +764,10 @@ ul#myList {
 	margin-bottom: 3em;
 }
 
+ul.experience-list li{
+	list-style-type: none;
+}
+
 #loadMore {
 	color: #000;
 	font-weight: 600;
@@ -820,17 +824,17 @@ ul#myList {
 	clear: both;
 }
 
-.load_more{
+.load_more, .load_more2{
 	text-align: center;
 }
 
-li.aitsaitsresumewthreeli-1 {
+ul.experience-list > li.aitsaitsresumewthreeli-1 {
 	margin-bottom: 50px;
 }
 /*-- Work --*/
 .work-left {
 	text-align: right;
-	padding: 1em 13px 0 0;
+	padding: 1em 13px 2em 0;
 }
 
 .work-right {
@@ -865,9 +869,14 @@ li.aitsaitsresumewthreeli-1 {
 	display: inline-block;
 	padding: 10px 28px;
 }
+.work-left2 {
+	border-right: 1px solid #999;
+	margin-left: 1px;
+}
 .work-right.work-right2 {
-	min-height: 185px;
 	float: right;
+	border-left: none;
+	margin-left: -1px;
 }
 .work-right.work-right2 h4:before {
 	left: -14px;
@@ -1560,9 +1569,6 @@ textarea {
 	.w3lsstatsaits-info p {
 		font-size: 17px;
 	}
-	.work-right {
-		padding: 1em 0 1em 13px;
-	}
 	/* .map iframe {
 		height: 247px;
 	} */
@@ -1616,9 +1622,6 @@ textarea {
 		margin-bottom: 7px;
 		padding: 10px 20px;
 		width: 100%;
-	}
-	.work-right {
-		padding: 1em 0 0em 13px;
 	}
 	#loadMore {
 		width: 21%;
@@ -1726,9 +1729,6 @@ textarea {
 	}
 	.contact-left-agile, .contact-right-w3l, .contact-right-w3l iframe {
 		min-height: 360px;
-	}
-	.work-right.work-right2 {
-		min-height: 238px;
 	}
 }
 @media(max-width: 568px){
@@ -1858,9 +1858,14 @@ textarea {
 		width: 100%;
 	}
 	.work-left {
-		height: 51px;
+		min-height: 51px;
 		text-align: left;
 		padding: 0;
+	}
+	.work-left2 {
+		padding: 0em 0 2em 0;
+		border: none;
+		margin-left: 0;
 	}
 	.work-info h4 {
 		padding: 10px;
@@ -1874,9 +1879,11 @@ textarea {
 		line-height: 29px;
 	}
 	.work-right {
-		height: 129px;
 		text-align: right;
 		border: none;
+		padding: 0em 0 2em 0;
+	}
+	.work-right2 {
 		padding: 0;
 	}
 	.work-info h5 {
@@ -1885,7 +1892,7 @@ textarea {
 		right: 0%;
 		font-size: 14px;
 		margin-bottom: 0;
-		padding: 9px 10px;
+		padding: 10px 10px;
 		width: 60%;
 		text-align: left
 	}
@@ -1903,9 +1910,6 @@ textarea {
 		right: auto;
 		left: 0;
 		padding: 10px 10px;
-	}
-	.work-left2 {
-		height: 126px;
 	}
 	.work-right.work-right2 {
 		min-height: 50px;
@@ -2016,12 +2020,6 @@ textarea {
 	}
 	input[type="text"], input[type="email"], .contact-right-w3l textarea {
 		padding: 7px;
-	}
-	.work-right {
-		height: 135px;
-	}
-	.work-left2 {
-		height: 135px;
 	}
 }
 @media(max-width: 384px){
