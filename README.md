@@ -44,7 +44,7 @@ In-depth and immersive web development, software engineer and computer science p
 
 Front-End and Back-End web application dashboard allows users to create, join, and manage voice chatroom groups to make real-time voice chats with family and friends through IOS application.
 
-[View Website - MyVoiceChatroom.com](https://www.myvoicechatroom.com/)
+[View Website](https://myvoicechatroom.netlify.app/)
 
 [View Github](https://github.com/intercom-app)
 
