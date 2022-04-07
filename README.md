@@ -16,7 +16,8 @@ My legal and management positions bring a fresh prospective to techincal and lea
 
 ### CVS Health - Senior Development Engineer
 
-Senior Development Engineer developing, designing and deploying e-commerce site, [CVS.com/shop](https://www.cvs.com/shop). Manage team of front end engineers through project lifecycle. Closely collaborate with engineering and product management, architects, stakeholders and design teams.
+Develop, design, and deploy e-commerce sites for a Fortune 10 company, including
+[CVS.com/shop](https://www.cvs.com/shop). Manage team of frontend engineers through the project lifecycle. Closely collaborate with engineering and product management, architects, stakeholders and design teams. Additional focuses on security, analytics, accessibility, ad injection and frontend architecture.
 
 ### CBTS - Software Engineer
 
