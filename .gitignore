@@ -3,3 +3,6 @@
 
 # Web Templates
 web copy/
+
+# Environment Variables File
+.env
